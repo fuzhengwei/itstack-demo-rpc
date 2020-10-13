@@ -37,7 +37,7 @@
         <log4j_version>1.2.17</log4j_version>
         <slf4j_version>1.7.5</slf4j_version>
         <!-- Test libs -->
-        <junit_version>4.10</junit_version>
+        <junit_version>4.13.1</junit_version>
         <easymock_version>3.0</easymock_version>
         <jmockit_version>0.999.8</jmockit_version>
         <!-- built-in libs -->
