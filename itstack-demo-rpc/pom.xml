@@ -30,7 +30,7 @@
         <netty_version>4.1.36.Final</netty_version>
         <!-- 3rd extends libs -->
         <servlet_version>2.5</servlet_version>
-        <resteasy_version>3.0.8.Final</resteasy_version>
+        <resteasy_version>3.14.0.Final</resteasy_version>
         <cxf_version>2.6.1</cxf_version>
         <jetty_version>7.5.4.v20111024</jetty_version>
         <!-- Log libs -->
